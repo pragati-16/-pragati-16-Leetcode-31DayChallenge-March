@@ -7,3 +7,4 @@ class Solution {
         return 1 + brokenCalc(startValue, target + 1);
     }
 }
+
